@@ -1,7 +1,0 @@
-{
-  "name": "Valentine's Love Wizard",
-  "description": "An interactive, wizard-style Valentine's experience featuring floating hearts, photo memories, and a magic message generator powered by Gemini.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
